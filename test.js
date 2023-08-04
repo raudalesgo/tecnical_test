@@ -48,7 +48,9 @@ function looksay(n){
     return init;
 }
 
-console.log(looksay(1));
+console.log(looksay(3));
+console.log(looksay(5));
+console.log(looksay(10));
 
 
 
